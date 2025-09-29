@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0BB675-26B4-4367-9A57-3F8E06F4A509}|..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CalculatorApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:50:11.75Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T08:58:35.314Z",
               "EditorCaption": ""

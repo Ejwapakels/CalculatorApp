@@ -7,6 +7,7 @@ C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorA
 C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
 C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
 C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
 C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
 C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
 C:\Users\217410\Desktop\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
