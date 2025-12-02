@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\romannumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\romannumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\outputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\outputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\multiplyoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\multiplyoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\interfaces\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:interfaces\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\addoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\addoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\subtractoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\subtractoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|c:\\users\\217410\\desktop\\calculatorapp\\calculatorapp\\services\\divideoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7262E9C3-CD0E-4474-B197-4448C4625363}|CalculatorApp.csproj|solutionrelative:services\\divideoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "SubtractOperation.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\SubtractOperation.cs",
+              "RelativeDocumentMoniker": "Services\\SubtractOperation.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\SubtractOperation.cs",
+              "RelativeToolTip": "Services\\SubtractOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:02:28.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\Calculator.cs",
+              "RelativeDocumentMoniker": "Services\\Calculator.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\Calculator.cs",
+              "RelativeToolTip": "Services\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:30:13.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOperation.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\AddOperation.cs",
+              "RelativeDocumentMoniker": "Services\\AddOperation.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\AddOperation.cs",
+              "RelativeToolTip": "Services\\AddOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:02:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DivideOperation.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\DivideOperation.cs",
+              "RelativeDocumentMoniker": "Services\\DivideOperation.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\DivideOperation.cs",
+              "RelativeToolTip": "Services\\DivideOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:02:50.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiplyOperation.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\MultiplyOperation.cs",
+              "RelativeDocumentMoniker": "Services\\MultiplyOperation.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\MultiplyOperation.cs",
+              "RelativeToolTip": "Services\\MultiplyOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:02:39.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAkwAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:58:35.314Z",
+              "WhenOpened": "2025-08-27T08:58:35.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOperation.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Interfaces\\IOperation.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOperation.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Interfaces\\IOperation.cs",
+              "RelativeToolTip": "Interfaces\\IOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:32:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RomanNumerals.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\RomanNumerals.cs",
+              "RelativeDocumentMoniker": "Services\\RomanNumerals.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\RomanNumerals.cs",
+              "RelativeToolTip": "Services\\RomanNumerals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:30:32.031Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\OutputHandler.cs",
+              "RelativeDocumentMoniker": "Services\\OutputHandler.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\OutputHandler.cs",
+              "RelativeToolTip": "Services\\OutputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:30:52.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Services\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\217410\\Desktop\\CalculatorApp\\CalculatorApp\\Services\\InputHandler.cs",
+              "RelativeToolTip": "Services\\InputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:30:42.119Z"
             }
           ]
         }
